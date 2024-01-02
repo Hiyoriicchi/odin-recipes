@@ -1,1 +1,2 @@
 # odin-recipes
+Right now, the project aims to showcase the various elements I've learned in the previous lessons by creating a recipe website. The final outcome will look plain but we will embelish it further once we start learning CSS :)
