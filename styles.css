@@ -1,0 +1,36 @@
+* {box-sizing: border-box;}
+.header {
+    text-align: center;
+    margin: auto;
+    max-width: 800px;
+    min-height: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.line{
+    height: 3px;
+    background-color: rgb(255, 197, 197);
+}
+.line-2 {
+    height: 2px;
+    background-color: rgb(255, 239, 239);
+    margin: 0px -5px;
+}
+
+.recipe-list {
+   width: 400px;
+    border-radius: 5px;
+    background-color: rgb(255, 197, 197);
+    padding: 10px 20px;
+    margin: 10px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   box-shadow: 10px 10px 3px rgb(145, 98, 144);
+}
+
+.image {margin: 10px auto;
+width: 970px;
+height: auto;
+}
+
+
+
+

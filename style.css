@@ -1,0 +1,47 @@
+.header {
+    text-align: center;
+    margin: auto;
+    max-width: 800px;
+    min-height: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif}
+
+a:link{
+    color: rgb(255, 239, 239);
+   }
+   a:visited {
+    color: rgb(255, 197, 197);
+   }
+.line{
+    height: 3px;
+    background-color: rgb(151, 95, 149);
+}
+.line-2 {
+    height: 2px;
+    background-color: rgb(255, 239, 239);
+    margin: 0px -5px;
+}
+.bottom {
+    width: 400px;
+    border-radius: 5px;
+    background-color: rgb(99, 46, 98);
+    padding: 10px 20px;
+    margin: 10px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   box-shadow: 10px 10px 3px rgb(145, 98, 144);
+   }
+
+#mango {margin: 20px auto 10px 230px;
+height: 700px;
+width: auto;}
+
+#bread {margin: 20px auto 0px 20px;}
+
+.recipe {
+        width: 1000px;
+        border-radius: 5px;
+        background-color: rgb(255, 197, 197);
+        padding: 10px 20px;
+        margin: 20px auto 40px auto;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       box-shadow: 10px 10px 3px rgb(145, 98, 144);
+    }
